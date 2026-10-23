@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="92" viewBox="0 0 390 92" role="img" aria-labelledby="title desc">
+  <title id="title">Rendez-vous Restaurant</title>
+  <desc id="desc">Logo doré avec cloche de restaurant et typographie élégante</desc>
+  <circle cx="45" cy="45" r="40" fill="#c99a3d"/>
+  <g fill="none" stroke="#fff" stroke-width="2.7" stroke-linecap="round" stroke-linejoin="round"><path d="M20 58h50"/><path d="M25 55c1-15 9-24 20-24s19 9 20 24"/><path d="M41 27h8"/><path d="M45 27v-4"/><path d="M33 65h24"/></g>
+  <text x="99" y="48" fill="#e1b85d" font-family="Georgia, 'Times New Roman', serif" font-size="34" letter-spacing="2.4">RENDEZ-VOUS</text>
+  <text x="101" y="70" fill="#fff" font-family="Arial, Helvetica, sans-serif" font-size="10" letter-spacing="6">RESTAURANT · PARIS</text>
+</svg>
